@@ -1,7 +1,7 @@
 
-<h1>Hi 👋, I'm Marcelo. Nice to meet you!</h1>
+<p>Hi 👋, I'm Marcelo. Nice to meet you!</p>
 <p>A passionate Data Scientist in Health </p>
-<h2>🚀 Linguagens e Ferramentas que eu uso</h2>
+<p>🚀 Linguagens e Ferramentas que eu uso</p>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
 <a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a>
