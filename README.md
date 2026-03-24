@@ -1,4 +1,3 @@
-
 <p>Hi 👋, I'm Marcelo. Nice to meet you!</p>
 <p>A passionate Data Scientist in Health </p>
 <p>🚀 Linguagens e Ferramentas que eu uso</p>
